@@ -10,4 +10,4 @@ Guides on choosing a project: https://sites.google.com/site/profvanselow/course/
 
 Cocos is an open-source professional development toolkit for building games that provides a streamlined workflow for developers. With Cocos, you can quickly create projects, design games and animation clips, and package and publish games for distribution. Build Cocos games with the powerful Visual Studio IDE and debug with the world-class Visual Studio debugger to boost your productivity.
 
-![screenshot](Tutorial%203%20Screenshot.PNG)
+![screenshot](CocosGameEngine.png)
