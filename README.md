@@ -6,8 +6,10 @@ This project is for COP 3033, which my current plan is to build a video game usi
 
 Guides on choosing a project: https://sites.google.com/site/profvanselow/course/cop-3003/projects-3003
 
-# Game Engine Example (Cocos)
+Guide on Visual Studio Tools for Unity: https://docs.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/visual-studio-tools-for-unity
 
-Cocos is an open-source professional development toolkit for building games that provides a streamlined workflow for developers. With Cocos, you can quickly create projects, design games and animation clips, and package and publish games for distribution. Build Cocos games with the powerful Visual Studio IDE and debug with the world-class Visual Studio debugger to boost your productivity.
+# Game Engine Example (Unity Engine)
+
+The Unity engine integrates into one unparalleled platform to create 2D and 3D games and interactive content. Create once and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC, and Linux desktop, web, or consoles. Use powerful cross-platform tools to make your interactive content run beautifully on any device.
 
 ![screenshot](CocosGameEngine.png)
