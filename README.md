@@ -9,6 +9,7 @@ Guides on choosing a project: https://sites.google.com/site/profvanselow/course/
 Guide on Visual Studio Tools for Unity: https://docs.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/visual-studio-tools-for-unity
 
 
+
 # Game Title: Emerl Energy
 
 Collect batteries that are placed in a test room in order to sustain Emerl's energy level.
