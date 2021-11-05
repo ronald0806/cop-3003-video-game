@@ -13,3 +13,10 @@ Guide on Visual Studio Tools for Unity: https://docs.microsoft.com/en-us/visuals
 The Unity engine integrates into one unparalleled platform to create 2D and 3D games and interactive content. Create once and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC, and Linux desktop, web, or consoles. Use powerful cross-platform tools to make your interactive content run beautifully on any device.
 
 ![screenshot](UnityEngine.png)
+
+
+# Game Title: Emerl Energy
+
+Collect batteries that are placed in a test room in order to sustain Emerl's energy level.
+
+
