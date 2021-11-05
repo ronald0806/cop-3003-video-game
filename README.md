@@ -1,6 +1,6 @@
 # COP 3003 Independent Project (Video Game)
 
-This project is for COP 3033, which my current plan is to build a video game using different conecpts from C++. 
+This project is for COP 3033, which my current plan is to build a video game using different conecpts learned from the course. 
 
 # Project Planning
 
