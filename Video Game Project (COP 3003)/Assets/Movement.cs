@@ -2,39 +2,65 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Movement : MonoBehaviour
-{
-    // Start is called before the first frame update
-    //Calculating the output of movement speed
-    // Source: https://www.youtube.com/watch?v=dwcT-Dch0bA
 
 
-    public float MovementSpeed = 1;
-    public float JumpForce = 1;
 
+
+public class Movement : MonoBehaviour {
+
+    // Enables control over specific given character
+    public CharacterController2D controller;
     
-    private Rigidbody2D _rigidbody;
+    // Sprite animations linked to character
+    private Animator animator;
 
+    float horizontalMove = 40f;
 
-    private void Start()
+    public float movementSpeed = 0f;
+    
+    // Jump input set to false as the character is moving
+    bool jump = false;
+    void Update()
     {
-        _rigidbody = GetComponent<Rigidbody2D>();
+        // Takes input from left and right arrow keys if they are pressed
+        horizontalMove = Input.GetAxisRaw("Horizontal") * movementSpeed;
+
+        // Takes input from spacebar key if it's pressed
+        if (Input.GetButtonDown("Jump"))
+        {
+            jump = true;
+        }
+
+        SetAnimation();
     }
 
 
-    private void Update()
+    private void FixedUpdate()
     {
-        var movement = Input.GetAxis("Horizontal");
-        transform.position += new Vector3(movement, 0, 0) * Time.deltaTime * MovementSpeed;
+        // Different executions of character's movement (walking and jumping) 
+        controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
+        jump = false;
+    }
 
-        if (Input.GetButtonDown("Jump") && Mathf.Abs(_rigidbody.velocity.y) < 0.001f)
+
+    private void Awake()
+    {
+        // Takes the animator window component from Unity 
+        animator = GetComponent<Animator>();
+
+    }
+
+    private void SetAnimation()
+    {
+        // If the character is moving, then the running sprite animation will execute
+        if(Mathf.Abs(horizontalMove) > 0)
+            {
+            animator.SetBool("IsRunning", true);
+        }
+        // If the character is not moving, then the running sprite animation will not execute
+        else
         {
-            _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
+            animator.SetBool("IsRunning", false);
         }
     }
-
-
 }
-// Create class on collectibale 
-// Inheritence on the different objects throughout the class
-// *Option* subclass on movement

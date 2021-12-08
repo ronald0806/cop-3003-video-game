@@ -5,13 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Collectible
+  - 'Battery '
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
+  - Stage
   - 
   - 
   - 
@@ -36,8 +38,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Background
   m_SortingLayers:
   - name: Default
     uniqueID: 0
