@@ -1,18 +1,11 @@
-# COP 3003 Independent Project (Video Game)
+# Game: Emerl Energy
 
-This project is for COP 3033, which my current plan is to build a video game using different conecpts learned from the course. 
+This project is for COP 3033, which my current plan is to build a video game using different conecpts learned from the course. The objective of it is to collect batteries that are placed in a test room. I was able to make it independently from the research and sources available. As this project involves a new coding lanague as well as my current skill of coding, my level of experience and proficiency are beginner level. Playing video games is my favorite hobby, so I've decided to go with the idea of making one for the experience as well as having fun. My personal desktop at home was where I was able to work on most of the project, but as well as staying over for office hours at my professor's class to ask related questions.  
 
-# Project Planning
-
-Guides on choosing a project: https://sites.google.com/site/profvanselow/course/cop-3003/projects-3003
-
-Guide on Visual Studio Tools for Unity: https://docs.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/visual-studio-tools-for-unity
+# Demonstration
 
 
 
-# Game Title: Emerl Energy
-
-Collect batteries that are placed in a test room in order to sustain Emerl's energy level.
 
 ![screenshot](Game%20Title.png)
 
@@ -20,6 +13,20 @@ Collect batteries that are placed in a test room in order to sustain Emerl's ene
 # Game Engine (Unity Engine)
 
 The Unity engine integrates into one unparalleled platform to create 2D and 3D games and interactive content. Create once and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC, and Linux desktop, web, or consoles. Use powerful cross-platform tools to make your interactive content run beautifully on any device.
+
+# Built With
+
+Microsoft Visual Studio
+Unity Engine
+Unity User Manual: https://docs.unity3d.com/Manual/index.html
+Brackeys (YouTube): https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPGNmA
+
+# Contributing
+
+# Author
+
+Ronald Chatelier
 
 ![screenshot](Game(Progress%202).PNG)
 
