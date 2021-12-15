@@ -32,6 +32,10 @@ Ronald Chatelier
 
 ![screenshot](Game(Progress%202).PNG)
 
+# External Documentation
+
+https://ronaldchatelier.github.io/cop-3003-video-game/html/
+
 
 
 
