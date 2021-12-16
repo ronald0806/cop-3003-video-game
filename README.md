@@ -8,7 +8,7 @@ This project is for COP 3033, which my current plan is to build a video game usi
 ![2021-12-08 15-33-21](https://user-images.githubusercontent.com/62119544/145282108-abc81f3f-80dc-43f8-8b8c-c1b03df3f682.gif)
 
 
-#Documentation
+# Documentation
 
 https://ronaldchatelier.github.io/cop-3003-video-game/html/
 
