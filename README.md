@@ -38,6 +38,7 @@ Ronald Chatelier
 * Quality and Security (C# Language): https://www.sonarsource.com/csharp/
 * Unity User Manual: https://docs.unity3d.com/Manual/index.html
 * Brackeys (YouTube): https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
-* MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPGNmA 
+* MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPGNmA
+* Sprites: http://spriters-resource.com/ 
 
 ![screenshot](Game(Progress%202).PNG)
