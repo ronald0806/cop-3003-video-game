@@ -5,7 +5,8 @@ This project is for COP 3033, which my current plan is to build a video game usi
 # Demonstration
 
 ![screenshot](Game%20Title.png)
-![2021-12-08 15-33-21](https://user-images.githubusercontent.com/62119544/145282108-abc81f3f-80dc-43f8-8b8c-c1b03df3f682.gif)
+
+![Demonstration](https://user-images.githubusercontent.com/62119544/146329512-6987c373-08b3-4553-8213-7e751462e4b3.gif)
 
 
 # Documentation
