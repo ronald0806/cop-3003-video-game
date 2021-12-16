@@ -27,9 +27,6 @@ The Unity engine integrates into one unparalleled platform to create 2D and 3D g
 
 ![Unity and Visual Studio](https://user-images.githubusercontent.com/62119544/146336271-ad6ed014-24ba-48f2-9985-b95daa6c8718.png)
 
-
-# Contributing
-
 # Author
 
 * Ronald Chatelier
