@@ -13,7 +13,8 @@ This project is for COP 3033, which my current plan is to build a video game usi
 https://ronaldchatelier.github.io/cop-3003-video-game/html/
 
 # Class Diagram
-![Classes](https://user-images.githubusercontent.com/62119544/146334203-3533abac-c378-45cd-a951-cc9b46fc50b7.png)
+![Classes](https://user-images.githubusercontent.com/62119544/146334400-3c6ca41d-a5b2-4150-9f68-33b4541d6e83.png)
+
 
 # Game Engine (Unity Engine)
 
