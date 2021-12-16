@@ -1,6 +1,6 @@
 // Name: Ronald Chatelier
 // Course: COP 3003
-// file: GraphicalUserInterface.cs
+// file: GraphicalUI.cs
 
 // Quality and Security: https://www.sonarsource.com/csharp/
 // Style and Structure: https://google.github.io/styleguide/csharp-style.html
@@ -16,7 +16,7 @@ using TMPro;
 
 
 // LO1. Design and implement a class. 
-public class UpdateUI : MonoBehaviour
+public class GraphicalUI : MonoBehaviour
 {
     // LO1c. Utilize an initialization list.
     // SerializeField: Forces Unity to serialize a private field.
