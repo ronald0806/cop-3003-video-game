@@ -8,7 +8,9 @@ This project is for COP 3033, which my current plan is to build a video game usi
 ![2021-12-08 15-33-21](https://user-images.githubusercontent.com/62119544/145282108-abc81f3f-80dc-43f8-8b8c-c1b03df3f682.gif)
 
 
+#Documentation
 
+https://ronaldchatelier.github.io/cop-3003-video-game/html/
 
 
 # Game Engine (Unity Engine)
@@ -17,13 +19,14 @@ The Unity engine integrates into one unparalleled platform to create 2D and 3D g
 
 # Built With
 
-Microsoft Visual Studio
-Unity Engine
-W3Schools (C# Language): https://www.w3schools.com/cs/index.php
-C# Style / Structure Guide: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
-Unity User Manual: https://docs.unity3d.com/Manual/index.html
-Brackeys (YouTube): https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
-MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPGNmA
+* Microsoft Visual Studio
+* Unity Engine
+* W3Schools (C# Language): https://www.w3schools.com/cs/index.php
+* Style and Structure Guide (C# Language): https://google.github.io/styleguide/csharp-style.html
+* Quality and Security (C# Language): https://www.sonarsource.com/csharp/
+* Unity User Manual: https://docs.unity3d.com/Manual/index.html
+* Brackeys (YouTube): https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+* MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPGNmA
 
 # Contributing
 
@@ -31,11 +34,13 @@ MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPG
 
 Ronald Chatelier
 
+#Achnowledgements
+
 ![screenshot](Game(Progress%202).PNG)
 
-# External Documentation
+#
 
-https://ronaldchatelier.github.io/cop-3003-video-game/html/
+
 
 
 
