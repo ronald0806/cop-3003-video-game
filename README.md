@@ -20,7 +20,8 @@ The Unity engine integrates into one unparalleled platform to create 2D and 3D g
 Microsoft Visual Studio
 Unity Engine
 W3Schools (C# Language): https://www.w3schools.com/cs/index.php
-C# Style / Structure Guide: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+Style and Structure Guide (C# Language): https://google.github.io/styleguide/csharp-style.html
+Quality and Security (C# Language): https://www.sonarsource.com/csharp/
 Unity User Manual: https://docs.unity3d.com/Manual/index.html
 Brackeys (YouTube): https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
 MichaelsGameLab (YouTube): https://www.youtube.com/channel/UCqTzy28Uf-kEDyNWfDPGNmA
