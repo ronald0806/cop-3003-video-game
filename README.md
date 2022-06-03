@@ -31,7 +31,7 @@ The Unity engine integrates into one unparalleled platform to create 2D and 3D g
 
 * Ronald Chatelier
 
-# Achnowledgements
+# Acknowledgements
 
 * Scott Vanselow (Professor)
 * Vladimir Hardy (Teacher Assistant)
