@@ -1,6 +1,6 @@
 # Game: Emerl Energy
 
-This project is for COP 3033, which my current plan is to build a video game using different conecpts learned from the course. The objective of it is to collect batteries that are placed in a test room. I was able to make it independently from the research and sources available. As this project involves a new coding lanague as well as my current skill of coding, my level of experience and proficiency are beginner level. Playing video games is my favorite hobby, so I've decided to go with the idea of making one for the experience as well as having fun. My personal desktop at home was where I was able to work on most of the project, but as well as staying over for office hours at my professor's class to ask related questions.  
+This project is for COP 3003, which my current plan is to build a video game using different conecpts learned from the course. The objective of it is to collect batteries that are placed in a test room. I was able to make it independently from the research and sources available. As this project involves a new coding lanague as well as my current skill of coding, my level of experience and proficiency are beginner level. Playing video games is my favorite hobby, so I've decided to go with the idea of making one for the experience as well as having fun. My personal desktop at home was where I was able to work on most of the project, but as well as staying over for office hours at my professor's class to ask related questions.  
 
 # Demonstration
 
